@@ -2,14 +2,23 @@
 ** Use React For building the exchange page
 *** Workload Estimation (unit: 25 mins pomodoro)
 The following are a rough estimation of developing this page given that the developer is somewhat familiar with both REACT and CSS/SASS.
+
 以下为一个熟悉REACT和CSS或SASS开发者进行仅页面布局开发的估计时长(以25分钟番茄钟为单位)。
+
 In total: Approximately 2 days for building the webpage with adjustable sidebars.
 **** TODO Set up Project: 2 pomos (1 h)
+创建项目
 **** TODO Code up page structure: 3 pomos (1.5 h)
+编写页面结构
 **** TODO Find a layout package: 2 pomos (1 h)
+寻找需要使用的布局包
+
 For example, [[https://github.com/negomi/react-burger-menu][React Burger Menu]]
 **** TODO Test that package with some code: 5 pomos (2.1 h)
+学习运用包进行页面编写
 **** TODO Integrate the layout package into the page: 5 pomos (2.1 h)
+将包运用到已经编写好的页面结构中
 **** TODO Testing: 2 pomos (1 h)
+测试和更改
 
 ** Trading View for Charts
